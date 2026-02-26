@@ -1,6 +1,7 @@
 # Hi, I'm Lang
 
 **AI Engineer [@EasyBee AI](https://easybee.ai) building AI agents**
+
 **ex-Cadence Design Systems**
 
 *Building for today's problems. Architecting for tomorrow's.*
