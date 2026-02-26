@@ -17,31 +17,31 @@
 
 ### Projects
 
-🛡️ [**Crimson**](https://github.com/alexanderzliu/aws-dd-hackathon) — Automated red-teaming platform for LLM agent systems. 4-stage multi-agent attack pipeline. *AWS x Datadog Hackathon Winner.*
+🛡️ [**Crimson**](https://github.com/alexanderzliu/aws-dd-hackathon) — Automated red-teaming platform for LLM agent systems. 4-stage multi-agent attack pipeline. *AWS x Datadog Hackathon Winner.* [Demo](https://www.loom.com/share/df42d52224c340a3a098fc3223aa680d)
 
-🎭 [**Mafia Ace**](https://github.com/alexanderzliu/weavehacks3) — AI Mafia game using Stanford's ACE framework — LLM agents play, reflect, and evolve strategies
+🎭 [**Mafia Ace**](https://github.com/alexanderzliu/weavehacks3) — AI Mafia game using Stanford's ACE framework — LLM agents play, reflect, and evolve strategies [Demo](https://www.loom.com/share/98b1c9ca826546dea5a5206be9583e25)
 
-🗣️ [**VoiceCode**](https://github.com/lil-Zlang/VoiceCode) — Voice-to-PR agent for Zoom/Google Meet — dev discussions become production pull requests
+🗣️ [**VoiceCode**](https://github.com/lil-Zlang/VoiceCode) — Voice-to-PR agent for Zoom/Google Meet — dev discussions become production pull requests [Live](https://vercel-site-mu.vercel.app/)
 
-🎬 [**AdFlow**](https://github.com/jknoll/agentic-orchestration) — AI video ad generator — product URL to professional short-form video in under 60 seconds
+🎬 [**AdFlow**](https://github.com/jknoll/agentic-orchestration) — AI video ad generator — product URL to professional short-form video in under 60 seconds [Live](https://agentic-orchestration.vercel.app/)
 
-📖 [**WeRead**](https://www.wereadtoday.com/) — Chrome extension cutting article reading time by 12 min via parallel AI processing
+📖 [**WeRead**](https://www.wereadtoday.com/) — Chrome extension cutting article reading time by 12 min via parallel AI processing [Chrome Store](https://chromewebstore.google.com/detail/weread-ai-reading-assista/jelfmobhiidblloeddcmkghmfmlkdmg)
 
-🍽️ [**MenuCopilot**](https://github.com/lil-Zlang/MenuCopilot) — Photo-based restaurant menu analyzer with personalized food recommendations
+🍽️ [**MenuCopilot**](https://github.com/lil-Zlang/MenuCopilot) — Photo-based restaurant menu analyzer with personalized food recommendations [Live](https://menu-copilot.vercel.app)
 
-💬 [**Prompt CoPilot**](https://github.com/lil-Zlang/prompt_copilot) — Chrome extension for managing and utilizing prompts with AI integration
+💬 [**Prompt CoPilot**](https://github.com/lil-Zlang/prompt_copilot) — Chrome extension for managing and utilizing prompts with AI integration [Live](https://prompt-copilot-demo.vercel.app)
 
-📰 [**SF Weekly News Digest**](https://github.com/lil-Zlang/SF-Narrative) — AI aggregator summarizing SF news from 20+ sources with interactive Q&A chatbot
+📰 [**SF Weekly News Digest**](https://github.com/lil-Zlang/SF-Narrative) — AI aggregator summarizing SF news from 20+ sources with interactive Q&A chatbot [Live](https://sf-narrative.vercel.app)
 
-🚗 [**SF Most Wanted Parkers**](https://github.com/lil-Zlang/sf-most-wanted-parkers) — Tracks San Francisco's worst parking offenders using SFMTA citation data
+🚗 [**SF Most Wanted Parkers**](https://github.com/lil-Zlang/sf-most-wanted-parkers) — Tracks San Francisco's worst parking offenders using SFMTA citation data [Live](https://sf-most-wanted-parkers.vercel.app)
 
-🎧 [**ReelOrFake**](https://github.com/lil-Zlang/reel_or_fake_casino) — Interactive game — distinguish original audio from AI-generated clones
+🎧 [**ReelOrFake**](https://github.com/lil-Zlang/reel_or_fake_casino) — Interactive game — distinguish original audio from AI-generated clones [Live](https://reelorfake.lovable.app)
 
 🚲 **Semi-Autonomous Cycle** — Assistive tricycle for visually impaired users — 92% navigation accuracy. COE Societal Impact Award.
 
 🔍 [**AI Content Detective**](https://github.com/lil-Zlang/ai-content-detective) — Real-time AI-generated content detection
 
-📝 [**Skimmd**](https://github.com/lil-Zlang/skimmd) — Lightweight markdown reader with live editing and auto-generated TOC
+📝 [**Skimmd**](https://github.com/lil-Zlang/skimmd) — Lightweight markdown reader with live editing and auto-generated TOC [Live](https://mdreader-rho.vercel.app)
 
 ⚙️ **32-bit RISC-V Processor** — Instruction-pipelined processor with byte-addressable memory
 
@@ -49,7 +49,7 @@
 
 ### Background
 
-- 🎓 **Boston University** — Computer Engineering (Tech Innovation), May 2025
+- 🎓 **Boston University** — Computer Engineering (Technology Innovation), May 2025
 - 🏆 Award-winning capstone — Societal Impact + Design Excellence
 - 💼 Previously: Cadence Design Systems (thermal modeling, 3D visualization, 500GB data pipelines)
 
