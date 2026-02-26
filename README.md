@@ -1,6 +1,9 @@
 # Hi, I'm Lang
 
 **AI Engineer [@EasyBee AI](https://easybee.ai) building AI agents**
+**ex-Cadence Design Systems**
+
+*Building for today's problems. Architecting for tomorrow's.*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
